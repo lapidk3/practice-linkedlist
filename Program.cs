@@ -10,6 +10,7 @@ namespace LinkedList
         }
     }
 
+    
     public class MyLinkedList
     {
         Node head;
@@ -25,5 +26,11 @@ namespace LinkedList
                 next = null;
             }
         }
+
+        public MyLinkedList() 
+        {
+            this.head = null;
+        }
+
     }
 }

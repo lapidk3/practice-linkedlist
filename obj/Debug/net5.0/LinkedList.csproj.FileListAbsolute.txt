@@ -1,0 +1,15 @@
+/Users/kennethlapid/Projects/List/LinkedList/bin/Debug/net5.0/LinkedList.deps.json
+/Users/kennethlapid/Projects/List/LinkedList/bin/Debug/net5.0/LinkedList.runtimeconfig.json
+/Users/kennethlapid/Projects/List/LinkedList/bin/Debug/net5.0/LinkedList.runtimeconfig.dev.json
+/Users/kennethlapid/Projects/List/LinkedList/bin/Debug/net5.0/LinkedList.dll
+/Users/kennethlapid/Projects/List/LinkedList/bin/Debug/net5.0/ref/LinkedList.dll
+/Users/kennethlapid/Projects/List/LinkedList/bin/Debug/net5.0/LinkedList.pdb
+/Users/kennethlapid/Projects/List/LinkedList/obj/Debug/net5.0/LinkedList.csprojAssemblyReference.cache
+/Users/kennethlapid/Projects/List/LinkedList/obj/Debug/net5.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennethlapid/Projects/List/LinkedList/obj/Debug/net5.0/LinkedList.AssemblyInfoInputs.cache
+/Users/kennethlapid/Projects/List/LinkedList/obj/Debug/net5.0/LinkedList.AssemblyInfo.cs
+/Users/kennethlapid/Projects/List/LinkedList/obj/Debug/net5.0/LinkedList.csproj.CoreCompileInputs.cache
+/Users/kennethlapid/Projects/List/LinkedList/obj/Debug/net5.0/LinkedList.dll
+/Users/kennethlapid/Projects/List/LinkedList/obj/Debug/net5.0/ref/LinkedList.dll
+/Users/kennethlapid/Projects/List/LinkedList/obj/Debug/net5.0/LinkedList.pdb
+/Users/kennethlapid/Projects/List/LinkedList/obj/Debug/net5.0/LinkedList.genruntimeconfig.cache
